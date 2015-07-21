@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2012\Projects\[ACS254]2015-07-17\Example02\bin\Debug\Example02.exe.config
+c:\users\user\documents\visual studio 2012\Projects\[ACS254]2015-07-17\Example02\bin\Debug\Example02.exe
+c:\users\user\documents\visual studio 2012\Projects\[ACS254]2015-07-17\Example02\bin\Debug\Example02.pdb
+c:\users\user\documents\visual studio 2012\Projects\[ACS254]2015-07-17\Example02\obj\Debug\Example02.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\[ACS254]2015-07-17\Example02\obj\Debug\Example02.exe
+c:\users\user\documents\visual studio 2012\Projects\[ACS254]2015-07-17\Example02\obj\Debug\Example02.pdb
+D:\C#\acs254\[ACS254]2015-07-17\[ACS254]2015-07-17\Example02\bin\Debug\Example02.exe.config
+D:\C#\acs254\[ACS254]2015-07-17\[ACS254]2015-07-17\Example02\obj\Debug\Example02.exe
+D:\C#\acs254\[ACS254]2015-07-17\[ACS254]2015-07-17\Example02\obj\Debug\Example02.pdb
+D:\C#\acs254\[ACS254]2015-07-17\[ACS254]2015-07-17\Example02\bin\Debug\Example02.exe
+D:\C#\acs254\[ACS254]2015-07-17\[ACS254]2015-07-17\Example02\bin\Debug\Example02.pdb
+D:\C#\acs254\[ACS254]2015-07-17\[ACS254]2015-07-17\Example02\obj\Debug\Example02.csprojResolveAssemblyReference.cache
